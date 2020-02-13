@@ -1,0 +1,7 @@
+com\lxt\ssm\domain\Orders.class
+com\lxt\ssm\domain\Role.class
+com\lxt\ssm\domain\Member.class
+com\lxt\ssm\domain\Product.class
+com\lxt\ssm\domain\UserInfo.class
+com\lxt\ssm\domain\Permission.class
+com\lxt\ssm\domain\Traveller.class
